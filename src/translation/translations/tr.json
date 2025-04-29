@@ -214,7 +214,10 @@
       "xcnPrediction": "XCN Tahmini",
       "fpunk": "Punk Wrapper",
       "liquidate": "Tasfiye",
-      "stake": "Stake"
+      "stake": "Stake",
+      "points": "Puanlar",
+      "pointsDashboard": "Puanlar Paneli",
+      "pointsLeaderboard": "Puanlar Liderlik Tablosu"
     }
   },
   "lunaUstWarningModal": {
@@ -941,5 +944,8 @@
   "gasFreeCampaign": {
     "onyxHasLaunchedGasFreeCampaign": "Onyx artık kullanıcıların desteklenen NFT'ler ve tokenlar için likiditeye erişmek için kullanabileceği v2 para piyasası protokolünü başlattı. Onyx, merkezi olmayan getiri sağlayan stabil bir koin olan MetaUSD'yi (MUSD) yakında başlatacak ve airdrop'u yakında başlatacak.",
     "seeTheAnnouncement": "Devamını oku"
+  },
+  "point": {
+    "learnMore": "Daha fazla bilgi edinin"
   }
 }

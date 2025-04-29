@@ -29,6 +29,7 @@ import { MuiThemeProvider } from 'theme/MuiThemeProvider';
 
 import FarmPage from './Farm';
 import SwapPage from './Swap';
+import PointDashboard from './Points/Dashboard';
 
 /**
  * Updated by ozdav
@@ -77,6 +78,9 @@ const App = () => (
                       <Route exact path={Path.SWAP} component={SwapPage} />
 
                       <Route exact path={Path.FARM} component={FarmPage} />
+
+                      <Route exact path={Path.POINTS} component={PointDashboard} />
+
 
                       <Redirect to={Path.ROOT} />
                     </Switch>

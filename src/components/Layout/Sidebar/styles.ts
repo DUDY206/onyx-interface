@@ -283,7 +283,7 @@ export const useStyles = () => {
       }
     `,
     subMenuItem: css`
-      padding: ${theme.spacing(2)} ${theme.spacing(4)};
+      padding: 0 ${theme.spacing(4)};
       display: flex;
       align-items: center;
       color: ${theme.palette.text.secondary};

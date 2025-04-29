@@ -214,7 +214,10 @@
       "xcnPrediction": "XCN Prediction",
       "fpunk": "Punk Wrapper",
       "liquidate": "Liquidate",
-      "stake": "Stake"
+      "stake": "Stake",
+      "points": "Points",
+      "pointsDashboard": "Points Dashboard",
+      "pointsLeaderboard": "Points Leaderboard"
     }
   },
   "lunaUstWarningModal": {
@@ -941,5 +944,8 @@
   "gasFreeCampaign": {
     "onyxHasLaunchedGasFreeCampaign": "Onyx has now launched the v2 money market protocol which users can utilize to access liquidity for supported NFTs and tokens. Onyx will be launching MetaUSD (MUSD), a decentralized yield-bearing stable coin, and airdrop soon.",
     "seeTheAnnouncement": "Read more"
+  },
+  "point": {
+    "learnMore": "<Anchor>Learn more</Anchor>"
   }
 }

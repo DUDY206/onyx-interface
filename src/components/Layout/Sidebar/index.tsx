@@ -128,9 +128,8 @@ export const SidebarUi: React.FC = () => {
                 component="li"
                 css={[styles.listItem, styles.subMenuItem, isMobile && styles.mobileListItem]}
                 disableRipple
-                onClick={isMobile ? closeMenu : undefined}
               >
-                <Link href={subMenuItem.href} onClick={isMobile ? closeMenu : undefined}>
+                <Link href={subMenuItem.href}>
                   <ListItemIcon css={styles.listItemIcon}>
                     <Icon name={subMenuItem.icon} />
                   </ListItemIcon>
